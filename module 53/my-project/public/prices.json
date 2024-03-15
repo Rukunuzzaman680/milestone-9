@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Full Body Blast",
+    "price": 5999,
+    "features": ["High-intensity workout", "Targets major muscle groups"]
+  },
+  {
+    "id": 2,
+    "name": "Strength Builder",
+    "price": 6999,
+    "features": ["Weightlifting", "Muscle building", "Personalized plans"]
+  },
+  {
+    "id": 3,
+    "name": "Cardio Fusion",
+    "price": 4999,
+    "features": ["Running", "Cycling", "Improves endurance"]
+  },
+  {
+    "id": 4,
+    "name": "Functional Fitness",
+    "price": 5499,
+    "features": ["Dynamic exercises", "Enhances functionality", "Focus on core"]
+  },
+  {
+    "id": 5,
+    "name": "Zen Yoga Retreat",
+    "price": 3999,
+    "features": ["Relaxing yoga", "Stretching", "Stress relief"]
+  }
+]

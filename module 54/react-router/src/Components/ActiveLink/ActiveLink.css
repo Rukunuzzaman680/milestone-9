@@ -1,0 +1,7 @@
+.active {
+  background-color: rgb(188, 70, 70);
+  border-radius: 20%;
+  text-decoration: underline;
+  padding: 10px;
+  color: white;
+}

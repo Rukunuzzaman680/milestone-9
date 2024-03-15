@@ -1,0 +1,14 @@
+.post {
+  margin: 20px;
+  border-radius: 30px;
+  border: 4px solid lightseagreen;
+  background-color: cadetblue;
+}
+.link {
+  color: white;
+  margin-right: 10px;
+  padding: 0.6em 1.2em;
+  border-radius: 10px;
+  border: 2px solid rgb(177, 189, 61);
+  background-color: rgb(151, 75, 149);
+}
